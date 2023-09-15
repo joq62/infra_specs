@@ -1,6 +1,6 @@
 {infra_spec,
  [
-  {spec_id,"test"},
+  {spec_id,"basic"},
   {cookie_str,"a"},
   {num_workers,[{"c50",9},{"c200",10},{"c201",11},{"c202",12}]}
  ]
