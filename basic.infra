@@ -3,6 +3,6 @@
   {spec_id,"basic"},
   {connect_nodes,[control_a@c50,control_a@c200,control_a@c201,control_a@c202]},
   {cookie_str,"a"},
-  {num_workers,[{"c50",9},{"c200",10},{"c201",11},{"c202",12}]}
+  {num_workers,[{"c50",3},{"c200",10},{"c201",11},{"c202",12}]}
  ]
 }.
